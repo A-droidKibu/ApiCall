@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ApiCall</string>
+    <string name="title">HomeScreen</string>
+    <string name="loadText">Loading</string>
+    <string name="search">search..</string>
+</resources>
